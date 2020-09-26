@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello People 👋
+- Want to become proficient in cs core fundamentals
+- I'm readily interested in contribution to open-source projects
+- I'm currently learning to work with API's
+- How to reach me : Telegram @beardedsailor
 
 <!--
 **beardedsailor/beardedsailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
