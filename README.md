@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: You are in my profile
 
 <p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=beardedsailor&show_icons=true&locale=en&layout=compact" alt="beardedsilor" /></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=beardedsailor&&show_icons=true&title_color=0066cc&icon_color=0066cc&text_color=000000&bg_color=ffffff%22></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=beardedsailor&show_icons=true&title_color=0066cc&icon_color=0066cc&text_color=000000&bg_color=ffffff%22"></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=beardedsailor&" alt="awesomely2201" /></p>
